@@ -1,10 +1,29 @@
 .App{
-  margin: 30px 300px 0px 300px;
+  background-color: #FFAA55;
+}
+
+.CampoBusca{
+  margin-left: 69px;
+  width:700px !important;
 }
 
 .Carousel {
-  margin-top: 20px;
   left: 25%;
   width: 50%;
-  length: 60%;
+  height: 60%;
+}
+
+.Logo{
+  width:70px;
+  height:50px;
+}
+
+.ImageSize{
+  width: 300px;
+  height: 200px;
+}
+
+.ImageCarousel{
+  width: 300px;
+  height: 300px;
 }
